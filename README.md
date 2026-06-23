@@ -22,5 +22,6 @@ Frontend-Focused MERN Stack Developer with 5+ years of experience building scala
 - UI Performance Optimization
 
 ## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+- LinkedIn: https://www.linkedin.com/in/uddesh-thakare/
+- Email: uddesh.thakare.office@gmail.com
+- Phone: 8999791177
